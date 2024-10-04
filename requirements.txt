@@ -1,6 +1,5 @@
 langchain_community 
-tiktoken 
-langchain-cohere 
+tiktoken  
 langchainhub 
 chromadb 
 langchain 
@@ -13,3 +12,8 @@ langchain-groq
 langchain-nomic
 langchain-text-splitters
 langchain_mistralai
+wikipedia
+langchain_huggingface
+google-search-results
+faiss-cpu
+sentence_transformers
